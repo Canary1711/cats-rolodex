@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cats-rolodex/static/css/main.5a7e1797.chunk.css",
+    "main.js": "/cats-rolodex/static/js/main.1991c75e.chunk.js",
+    "main.js.map": "/cats-rolodex/static/js/main.1991c75e.chunk.js.map",
+    "runtime-main.js": "/cats-rolodex/static/js/runtime-main.98d6f816.js",
+    "runtime-main.js.map": "/cats-rolodex/static/js/runtime-main.98d6f816.js.map",
+    "static/js/2.5905bb17.chunk.js": "/cats-rolodex/static/js/2.5905bb17.chunk.js",
+    "static/js/2.5905bb17.chunk.js.map": "/cats-rolodex/static/js/2.5905bb17.chunk.js.map",
+    "index.html": "/cats-rolodex/index.html",
+    "precache-manifest.1d8e2bbe17005770a70021dcac62da2a.js": "/cats-rolodex/precache-manifest.1d8e2bbe17005770a70021dcac62da2a.js",
+    "service-worker.js": "/cats-rolodex/service-worker.js",
+    "static/css/main.5a7e1797.chunk.css.map": "/cats-rolodex/static/css/main.5a7e1797.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98d6f816.js",
+    "static/js/2.5905bb17.chunk.js",
+    "static/css/main.5a7e1797.chunk.css",
+    "static/js/main.1991c75e.chunk.js"
+  ]
+}
